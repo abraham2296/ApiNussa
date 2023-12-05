@@ -1,0 +1,235 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "rostro"
+        },
+        {
+            "id": 2,
+            "name": "ojos"
+        },
+        {
+            "id": 3,
+            "name": "labios"
+        },
+        {
+            "id": 4,
+            "name": "skincare"
+        },
+        {
+            "id": 5,
+            "name": "varios"
+        }
+    ],
+    
+    "marks": [
+        {
+            "id": 1,
+            "name": "loreal paris"
+        },
+        {
+            "id": 2,
+            "name": "maybelline new york"
+        },
+        {
+            "id": 3,
+            "name": "revolution"
+        },
+        {
+            "id": 4,
+            "name": "elf"
+        },
+        {
+            "id": 5,
+            "name": "revlon"
+        },
+        {
+            "id": 6,
+            "name": "la colors"
+        },
+        {
+            "id": 7,
+            "name": "nyx"
+        },
+        {
+            "id": 8,
+            "name": "phisicians formula"
+        }
+    ],
+
+    "products": [
+        {
+            "id": 1,
+            "description": "Base Loreal París Infallible",
+            "price": 14,
+            "categoryId": 1,
+            "markId": 1
+        },
+        {
+            "id": 2,
+            "description": "Base Maybelline 4 en 1 Perfect Glow",
+            "price": 14,
+            "categoryId": 1,
+            "markId": 2
+        },
+        {
+            "id": 3,
+            "description": "Base Maybelline Superstay Active Wear 30H",
+            "price": 13,
+            "categoryId": 1,
+            "markId": 2
+        },
+        {
+            "id": 4,
+            "description": "Corrector Loreal París Infaillible 24H Full Wear",
+            "price": 13,
+            "categoryId": 1,
+            "markId": 1
+        },
+        {
+            "id": 5,
+            "description": "Corrector Elf de camuflaje Hidratante",
+            "price": 10,
+            "categoryId": 1,
+            "markId": 4
+        },
+        {
+            "id": 6,
+            "description": "Corrector Morphe 2 Hide & Peek",
+            "price": 12,
+            "categoryId": 1
+        },
+        {
+            "id": 7,
+            "description": "Corrector Maybelline Superstay Active Wear 30H",
+            "price": 11,
+            "categoryId": 1,
+            "markId": 2
+        },
+        {
+            "id": 8,
+            "description": "Polvo Compacto Maybelline Super Stay 16H",
+            "price": 13,
+            "categoryId": 1,
+            "markId": 2
+        },
+        {
+            "id": 9,
+            "description": "Polvo Suelto Traslucido Revlon PhotoReady Candid",
+            "price": 8,
+            "categoryId": 1,
+            "markId": 5
+        },
+        {
+            "id": 10,
+            "description": "Polvo Compacto Maybelline Fit Me Matte & Poreless",
+            "price": 10.5,
+            "categoryId": 1,
+            "markId": 2
+        },
+        {
+            "id": 11,
+            "description": "Blush En Polvo Milani Baked",
+            "price": 6.5,
+            "categoryId": 1
+        },
+        {
+            "id": 12,
+            "description": "Blush en Crema ELF Putty Blush",
+            "price": 12,
+            "categoryId": 1,
+            "markId": 4
+        },
+        {
+            "id": 13,
+            "description": "Fast Base Blush Revolution para Mejillas y Labios",
+            "price": 12,
+            "categoryId": 3,
+            "markId": 3
+        },
+        {
+            "id": 14,
+            "description": "Paleta de Sombras Rude Be Squarer",
+            "price": 14,
+            "categoryId": 3
+        },
+        {
+            "id": 15,
+            "description": "Paleta de Sombras Revolution Ultimate Neons",
+            "price": 9,
+            "categoryId": 2,
+            "markId": 3
+        },
+        {
+            "id": 16,
+            "description": "Paleta de Sombras I Heart Revolution Grapefruit Fizz",
+            "price": 13,
+            "categoryId": 2,
+            "markId": 3
+        },
+        {
+            "id": 17,
+            "description": "Paleta de Sombras I Heart Revolution Cherry Cola",
+            "price": 13,
+            "categoryId": 2,
+            "markId": 3
+        },
+        {
+            "id": 18,
+            "description": "Paleta de Sombras Revolution Maxi Reloaded",
+            "price": 25,
+            "categoryId": 2,
+            "markId": 3
+        },
+        {
+            "id": 19,
+            "description": "Paleta de Sombras Revolution Maxi Reloaded",
+            "price": 25,
+            "categoryId": 2,
+            "markId": 3
+        },
+        {
+            "id": 20,
+            "description": "Paleta de Sombras Revolution PRO Regeneration",
+            "price": 15,
+            "categoryId": 2,
+            "markId": 3
+        },
+        {
+            "id": 21,
+            "description": "Paleta de sombras I Heart Revolution Affirmation Book",
+            "price": 12,
+            "categoryId": 2,
+            "markId": 3
+        },
+        {
+            "id": 22,
+            "description": "Preparador en spray Revlon PhotoReady 56 ml",
+            "price": 12,
+            "categoryId": 5,
+            "markId": 5
+        },
+        {
+            "id": 23,
+            "description": "Primer base en Gel Hidratante NYX",
+            "price": 6,
+            "categoryId": 5,
+            "markId": 7
+        },
+        {
+            "id": 24,
+            "description": "Physicians Formula | Murumuru Butter Bronzer",
+            "price": 20,
+            "categoryId": 1,
+            "markId": 8
+        },
+        {
+            "id": 25,
+            "description": "Delineador de Labios L.A Colors Automático",
+            "price": 3,
+            "categoryId": 2,
+            "markId": 6
+        }
+    ]
+
+}
